@@ -22,7 +22,7 @@
         #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 4.1 Trabajo efectuado por una fuerza (constante y variable)
         
-        p.mb-5 El trabajo (W) es una magnitud escalar que resulta de la acción de una fuerza (F) sobre un cuerpo para desplazarlo una distancia (d). Este proceso implica la transferencia de energía, permitiendo que el objeto se mueva. La fuerza es una magnitud vectorial, y sus componentes en los ejes cartesianos son:
+        p.mb-5 El #[strong trabajo (W)] es una magnitud escalar que resulta de la acción de una #[strong fuerza (F)] sobre un cuerpo para desplazarlo una #[strong distancia (d)]. Este proceso implica la #[strong transferencia de energía], permitiendo que el objeto se mueva. La fuerza es una #[strong magnitud vectorial], y sus componentes en los ejes cartesianos son:
 
         .row.justify-content-center.mb-3
           .col-lg-4
@@ -35,7 +35,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
             h3.titulo-con-imagen__texto Trabajo efectuado por una fuerza constante
           
-        p.mb-5 Se produce cuando la fuerza aplicada es paralela al desplazamiento y no cambia en el tiempo ni en la posición. La ecuación para calcularlo es:
+        p.mb-5 Se produce cuando la fuerza aplicada es #[strong paralela al desplazamiento] y no cambia en el tiempo ni en la posición. La ecuación para calcularlo es:
 
         .titulo-sexto.color-acento-contenido
           h5 Figura 9.
@@ -57,7 +57,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Trabajo efectuado por una fuerza variable
       
-    p.mb-5 Ocurre cuando la fuerza aplicada cambia en magnitud, dirección, posición u otro factor a lo largo del desplazamiento. En estos casos, el objeto se mueve en pequeños intervalos, donde la fuerza se considera casi constante en cada tramo. Un ejemplo claro es el trabajo realizado al estirar un resorte. Para alargarlo se requiere una fuerza creciente, proporcional a la deformación, según la ley de Hooke:
+    p.mb-5 Ocurre cuando la fuerza aplicada cambia en #[strong magnitud, dirección, posición u otro factor] a lo largo del desplazamiento. En estos casos, el objeto se mueve en #[strong pequeños intervalos], donde la fuerza se considera casi constante en cada tramo. Un ejemplo claro es el #[strong trabajo realizado al estirar un resorte]. Para alargarlo se requiere una fuerza creciente, proporcional a la deformación, según la #[strong ley de Hooke]:
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 10.
@@ -97,7 +97,7 @@
         #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 4.2 Energía cinética
         
-        p.mb-5 La energía cinética (K) es la energía asociada al movimiento de un cuerpo y está directamente relacionada con la fuerza que interviene para producir dicho movimiento. Representa la capacidad que tiene un objeto en movimiento para realizar trabajo sobre otros cuerpos. Su expresión matemática es:
+        p.mb-5 La #[strong energía cinética (K)] es la energía asociada al #[strong movimiento de un cuerpo] y está directamente relacionada con la fuerza que interviene para producir dicho movimiento. Representa la capacidad que tiene un objeto en movimiento para realizar trabajo sobre otros cuerpos. Su expresión matemática es:
         
         .titulo-sexto.color-acento-contenido
           h5 Figura 11.

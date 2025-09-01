@@ -55,12 +55,12 @@
         #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 6.2 Electricidad y campo eléctrico
         
-        p El campo eléctrico es la región del espacio donde una carga eléctrica experimenta una fuerza eléctrica.
+        p El #[strong campo eléctrico] es la región del espacio donde una #[strong carga eléctrica] experimenta una #[strong fuerza eléctrica].
 
         ul.lista-ul--color.mb-5
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-5
-            p.mb-0 Es un campo vectorial, ya que posee magnitud y dirección.
+            p.mb-0 Es un #[strong campo vectorial], ya que posee #[strong magnitud y dirección].
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-5
             p.mb-0 Se calcula mediante la ecuación:
@@ -99,7 +99,7 @@
         #t_6_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 6.3 Electromagnetismo y campo magnético inducido
         
-        p Cuando una corriente eléctrica circula por un conductor, se genera un campo magnético alrededor de él.
+        p Cuando una #[strong corriente eléctrica circula por un conductor], se #[strong genera un campo magnético] alrededor de él.
 
         ul.lista-ul--color.mb-5
           li.mb-0.d-flex

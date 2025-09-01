@@ -34,8 +34,8 @@
     #t_7_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 7.1 Oscilaciones
     
-    p Las oscilaciones representan movimientos periódicos o repetitivos en torno a una posición de equilibrio, y se caracterizan por parámetros como amplitud, frecuencia y período.
-    p.mb-0 Clasificación de las oscilaciones:
+    p Las #[strong oscilaciones] representan movimientos #[strong periódicos o repetitivos] en torno a una #[strong posición de equilibrio], y se caracterizan por parámetros como #[strong amplitud], #[strong frecuencia] y #[strong período].
+    p.mb-0 #[strong Clasificación de las oscilaciones]:
 
     .bg-full-width.bg-color-4.mb-5
       .px-4.px-md-5
@@ -93,7 +93,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Clasificación de las ondas
     
-    p.mb-5 Para comprender mejor el comportamiento de las ondas, se pueden clasificar según la dirección de vibración de las partículas del medio y según la necesidad de un medio material para propagarse:
+    p.mb-5 Para comprender mejor el comportamiento de las ondas, se pueden #[strong clasificar según la dirección de vibración de las partículas del medio] y #[strong según la necesidad de un medio material para propagarse]:
 
     .row.justify-content-center
       .col-lg-10

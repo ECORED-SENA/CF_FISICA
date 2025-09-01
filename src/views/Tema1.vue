@@ -23,7 +23,7 @@
         #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 1.1 Variables físicas y sistema de unidades
         
-        p Una variable física es un dato numérico que puede cambiar en función de un fenómeno o condición física. Estas variables permiten describir, analizar y predecir comportamientos en la naturaleza. Los ejemplos de variables físicas son:
+        p Una variable física es un dato numérico que puede cambiar en función de un fenómeno o condición física. Estas variables permiten describir, analizar y predecir comportamientos en la naturaleza. Los ejemplos de #[strong variables físicas] son:
 
         .row.mb-5.justify-content-center
           .col-6.col-lg-2.mb-5.mb-lg-0
@@ -63,7 +63,7 @@
                 .p-4
                   h5.text-center Tiempo
         
-        p.mb-5 El valor de una variable física se denomina magnitud, y siempre es medible. Los ejemplos de magnitudes físicas son:
+        p.mb-5 El valor de una variable física se denomina magnitud, y siempre es medible. Los ejemplos de #[strong magnitudes físicas] son:
 
         .row.justify-content-center
           .col-lg-6
@@ -284,11 +284,11 @@
               div(titulo="Suma de vectores")
                 p.ms-5 La suma de dos vectores se obtiene aplicando la regla del paralelogramo. Se construye un paralelogramo con los vectores <b>A</b> y <b>B</b> como lados adyacentes; la diagonal que parte del punto común corresponde al vector resultante <b>R</b>.
               div(titulo="Negativo de un vector")
-                p.ms-5 El vector negativo tiene la misma magnitud pero dirección opuesta. La suma de un vector y su opuesto es cero: <b>A + (-A) = 0</b>.
+                p.ms-5 El vector negativo tiene la misma magnitud, pero dirección opuesta. La suma de un vector y su opuesto es cero: <b>A + (-A) = 0</b>.
               div(titulo="Resta de vectores")
                 p.ms-5 La resta <b>A - B</b> equivale a sumar <b>A</b> con el negativo de <b>B: A - B = A + (-B)</b>.
               div(titulo="Multiplicación de un vector por un escalar")
-                p.ms-5 Multiplicar o dividir un vector por un número real (escalar) genera otro vector con la misma dirección pero con módulo modificado. Ejemplo: si <b>A</b> es un vector, <b>4A</b> es un vector cuatro veces mayor en magnitud que <b>A</b>.
+                p.ms-5 Multiplicar o dividir un vector por un número real (escalar) genera otro vector con la misma dirección, pero con módulo modificado. Ejemplo: si <b>A</b> es un vector, <b>4A</b> es un vector cuatro veces mayor en magnitud que <b>A</b>.
                        
     
     

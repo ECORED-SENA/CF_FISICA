@@ -13,13 +13,13 @@
           img(src="@/assets/curso/tema3/1.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
         .bg-color-1.px-4.py-5(data-aos="fade-left")
-          p.mb-0 Este video presenta los fundamentos de la dinámica en física, explicando cómo los cuerpos se mueven y cómo las fuerzas influyen en su comportamiento. A través de ejemplos y referencias históricas, se introduce la primera ley de Newton o ley de inercia, que describe cómo un objeto mantiene su estado de reposo o movimiento rectilíneo uniforme a menos que una fuerza externa actúe sobre él. Además, se abordan conceptos clave como masa, fuerza y gravedad, esenciales para comprender la interacción entre los cuerpos y el origen de sus movimientos.
+          p.mb-0 Este video presenta los fundamentos de la #[strong dinámica] en física, explicando cómo los cuerpos se mueven y cómo las fuerzas influyen en su comportamiento. A través de ejemplos y referencias históricas, se introduce la #[strong primera ley de Newton o ley de inercia], que describe cómo un objeto mantiene su estado de reposo o movimiento rectilíneo uniforme a menos que una fuerza externa actúe sobre él. Además, se abordan conceptos clave como #[strong masa], #[strong fuerza] y #[strong gravedad], esenciales para comprender la interacción entre los cuerpos y el origen de sus movimientos.
     
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mb-5 El siguiente video explica los conceptos fundamentales de la física relacionados con las fuerzas que actúan sobre los cuerpos. Presenta la gravedad como la fuerza que atrae los objetos hacia la Tierra y muestra cómo el peso resulta de multiplicar la masa por la aceleración gravitacional. También describe la fuerza normal, la tensión, las fuerzas de roce estático y cinético, y la torsión, que provocan interacciones y movimientos en los cuerpos. Estos conceptos son la base para comprender cómo los objetos reaccionan ante distintas fuerzas en su entorno.
+    p.mb-5 El siguiente video explica los #[strong conceptos fundamentales de la física] relacionados con las fuerzas que actúan sobre los cuerpos. Presenta la #[strong gravedad] como la fuerza que atrae los objetos hacia la Tierra y muestra cómo el #[strong peso] resulta de multiplicar la masa por la aceleración gravitacional. También describe la #[strong fuerza normal], la #[strong tensión], las #[strong fuerzas de roce estático y cinético], y la #[strong torsión], que provocan interacciones y movimientos en los cuerpos. Estos conceptos son la base para comprender cómo los objetos reaccionan ante distintas fuerzas en su entorno.
 
     figure.mb-5
       .video
@@ -110,7 +110,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.4 Inercia rotacional de los cuerpos sólidos
     
-    p La inercia rotacional es un valor escalar que describe la propiedad de los cuerpos sólidos de girar alrededor de un eje y depende de cómo se distribuye la masa respecto a dicho eje. También representa la dificultad que tienen los objetos para cambiar su velocidad de rotación. Mientras más alejada esté la masa del eje de rotación, mayor será la inercia rotacional.
+    p La inercia rotacional es un valor escalar que describe la propiedad de los cuerpos sólidos de girar alrededor de un eje y depende de cómo se distribuye la masa respecto a dicho eje. También representa la dificultad que tienen los objetos para cambiar su velocidad de rotación. Cuanto más alejada esté la masa del eje de rotación, mayor será la inercia rotacional.
 
     p.mb-5 Esta magnitud se relaciona con la segunda ley de Newton porque el movimiento genera una fuerza denominada tangencial, que depende de la aceleración tangencial y de la masa del objeto. Las ecuaciones principales son:
 

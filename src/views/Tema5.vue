@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
-      h1 TermodinámicaTema 3
+      h1 Termodinámica
     
     .bg-full-width.bg-color-4.mb-5
       .px-4.px-md-5
@@ -39,7 +39,7 @@
         #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 5.1 Parámetros termodinámicos fundamentales
         
-    p.mb-5 El siguiente video explica los parámetros termodinámicos, que son magnitudes físicas medibles en un sistema y que determinan su estado termodinámico. Se describen las variables de estado o funciones de estado, diferenciando entre propiedades intensivas, que no dependen de la cantidad de materia, y propiedades extensivas, que sí lo hacen. Además, se presentan ejemplos de sistemas abiertos, cerrados y aislados, mostrando cómo intercambian materia y energía con su entorno. Estos conceptos son esenciales para comprender el comportamiento y el equilibrio de los sistemas en termodinámica.
+    p.mb-5 El siguiente video explica los #[strong parámetros termodinámicos], que son magnitudes físicas medibles en un sistema y que determinan su #[strong estado termodinámico]. Se describen las #[strong variables de estado o funciones de estado], diferenciando entre #[strong propiedades intensivas], que no dependen de la cantidad de materia, y #[strong propiedades extensivas], que sí lo hacen. Además, se presentan ejemplos de #[strong sistemas abiertos, cerrados y aislados], mostrando cómo intercambian materia y energía con su entorno. Estos conceptos son esenciales para comprender el comportamiento y el equilibrio de los sistemas en termodinámica.
 
     figure.mb-5
       .video
@@ -97,7 +97,7 @@
         #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 5.3 Procesos termodinámicos
         
-        p.mb-5 Los procesos termodinámicos son los cambios o evoluciones en las magnitudes o propiedades termodinámicas de un cuerpo, producidos por las interacciones de los sistemas que lo componen. Estos procesos se clasifican según la variable termodinámica que permanece constante durante el cambio.
+        p.mb-5 Los #[strong procesos termodinámicos] son los cambios o evoluciones en las #[strong magnitudes o propiedades termodinámicas] de un cuerpo, producidos por las interacciones de los sistemas que lo componen. Estos procesos se clasifican según #[strong la variable termodinámica que permanece constante] durante el cambio.
 
         .bg-full-width.bg-fondo-slider.mb-5
           .p-4.p-md-5

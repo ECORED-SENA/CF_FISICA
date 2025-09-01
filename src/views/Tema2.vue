@@ -108,7 +108,7 @@
               figure
                 img(src="@/assets/curso/tema2/10.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h4.mb-5 Velocidad (v⃗)
+              h4.mb-5 Velocidad (v→)
               p Es una magnitud vectorial la cual indica que tiene dirección y sentido, se calcula dividiendo la distancia por la unidad de tiempo empleado en hacer ese recorrido.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
@@ -132,7 +132,7 @@
               h4.mb-5 Aceleración de la gravedad (g)
               p Es una magnitud vectorial que, obedece a la aceleración experimentada debido a la gravedad que ejerce la tierra en un cuerpo al dejarlo caer.
     
-    p El mundo está en constante movimiento; los objetos cambian su posición con respecto al tiempo por diversas razones. Dentro de la cinemática, uno de los movimientos más simples es el Movimiento Uniforme (MU) o Movimiento Rectilíneo Uniforme (MRU). Este ocurre cuando un objeto se desplaza en línea recta a una velocidad constante, lo que implica que su aceleración es nula (a = 0).
+    p El mundo está en #[strong constante movimiento]; los objetos cambian su posición con respecto al tiempo por diversas razones. Dentro de la cinemática, uno de los movimientos más simples es el #[strong Movimiento Uniforme (MU)] o #[strong Movimiento Rectilíneo Uniforme (MRU)]. Este ocurre cuando un objeto se desplaza en línea recta a una velocidad constante, lo que implica que su aceleración es nula (a = 0).
 
     p.mb-5 En este tipo de movimiento:
 
@@ -173,7 +173,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Ecuaciones del MRU
       
-    p.mb-5 Para representar el comportamiento del Movimiento Rectilíneo Uniforme, se utilizan las siguientes ecuaciones:
+    p.mb-5 Para representar el comportamiento del #[strong Movimiento Rectilíneo Uniforme], se utilizan las siguientes ecuaciones:
        
     .bg-full-width.bg-color-4.mb-5
       .px-4.px-md-5
@@ -206,7 +206,7 @@
         #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 2.3 Movimiento Uniformemente Acelerado (MUA)
         
-        p El Movimiento Uniformemente Acelerado (MUA), también denominado Movimiento Rectilíneo Uniformemente Acelerado (MRUA) o Movimiento Rectilíneo Uniformemente Variado (MRUV), se diferencia del Movimiento Uniforme (MU) en que la partícula está sometida a una aceleración constante. En este tipo de movimiento:
+        p El #[strong Movimiento Uniformemente Acelerado (MUA)], también denominado #[strong Movimiento Rectilíneo Uniformemente Acelerado (MRUA)] o #[strong Movimiento Rectilíneo Uniformemente Variado (MRUV)], se diferencia del #[strong Movimiento Uniforme (MU)] en que la partícula está sometida a una aceleración constante. En este tipo de movimiento:
     
     .row.justify-content-center
       .col-lg-8
@@ -235,7 +235,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
             h3.titulo-con-imagen__texto Ecuaciones del MUA
           
-        p.mb-5 Para describir matemáticamente el Movimiento Uniformemente Acelerado, se emplean las siguientes ecuaciones:
+        p.mb-5 Para describir matemáticamente el #[strong Movimiento Uniformemente Acelerado], se emplean las siguientes ecuaciones:
        
     
         .row.justify-content-center.mb-5
@@ -268,7 +268,7 @@
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.4 Caída libre
     
-    p.mb-5 La caída libre es el movimiento de un cuerpo influenciado únicamente por la aceleración de la gravedad (g). Se caracteriza por el incremento de la velocidad con el tiempo, mientras el cuerpo desciende debido a la atracción gravitatoria de la Tierra.
+    p.mb-5 La caída libre es el movimiento de un cuerpo influenciado únicamente por la #[strong aceleración de la gravedad (g)]. Se caracteriza por el #[strong incremento de la velocidad con el tiempo], mientras el cuerpo desciende debido a la atracción gravitatoria de la Tierra.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -408,7 +408,7 @@
         .bg-color-9.text-white.px-4.py-3.mb-3
           figure
             img(src="@/assets/curso/tema2/35.svg", data-aos="zoom-in", style="max-width: 200px")
-        p Para calcular el tiempo de caída hasta el suelo, se plantea la ecuación de posición con x=0, obteniendo una ecuación cuadrática:
+        p Para calcular el <b>tiempo de caída hasta el suelo</b>, se plantea la ecuación de posición con x=0, obteniendo una <b>ecuación cuadrática</b>:
         .bg-color-9.text-white.px-4.py-3
           figure
             img(src="@/assets/curso/tema2/36.svg", data-aos="zoom-in", style="max-width: 200px")
@@ -434,17 +434,17 @@
                     ul.lista-ul--color
                       li.mb-0.d-flex
                         i.fas.fa-circle-check.bg-color-5
-                        p.mb-0 La trayectoria no es recta, sino que depende de radios de curvatura.
+                        p.mb-0 La <b>trayectoria no es recta</b>, sino que depende de <b>radios de curvatura</b>.
                       li.mb-0.d-flex
                         i.fas.fa-circle-check.bg-color-5
-                        p.mb-0 Dichos radios están asociados a los ángulos de inclinación que definen el cambio de dirección del móvil.
+                        p.mb-0 Dichos radios están asociados a los <b>ángulos de inclinación</b> que definen el cambio de dirección del móvil.
 
         separador
         
         #t_2_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 2.6 Movimiento de proyectiles
         
-        p.mb-5 El movimiento de proyectiles es un movimiento curvilíneo de tipo parabólico en el que la partícula combina:
+        p.mb-5 El <b>movimiento de proyectiles</b> es un <b>movimiento curvilíneo de tipo parabólico</b> en el que la partícula combina:
      
         .row.justify-content-center
           .col-lg-8
@@ -458,12 +458,12 @@
                     ul.lista-ul--color
                       li.mb-0.d-flex
                         i.fas.fa-circle-check.bg-color-5
-                        p.mb-0 Un movimiento horizontal (eje X) con velocidad constante.
+                        p.mb-0 Un <b>movimiento horizontal</b> (eje X) con <b>velocidad constante</b>.
                       li.mb-0.d-flex
                         i.fas.fa-circle-check.bg-color-5
-                        p.mb-0 Un movimiento vertical (eje Y) afectado por la gravedad, que modifica la velocidad con el tiempo.
+                        p.mb-0 Un <b>movimiento vertical</b> (eje Y) afectado por la <b>gravedad</b>  , que modifica la velocidad con el tiempo.
         
-        p.mb-5 La distancia recorrida y la altura alcanzada dependen del ángulo de lanzamiento y de la velocidad inicial del proyectil.
+        p.mb-5 La <b>distancia recorrida y la altura alcanzada</b> dependen del <b>ángulo de lanzamiento</b> y de la <b>velocidad inicial</b> del proyectil.
     
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
@@ -494,7 +494,7 @@
     #t_2_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.7 Movimiento circular uniforme
     
-    p.mb-5 El movimiento circular uniforme (MCU) se caracteriza porque la partícula describe una trayectoria circular con velocidad angular constante, lo que significa que recorre arcos iguales en tiempos iguales. Aunque su rapidez es constante, la dirección de la velocidad cambia continuamente, generando una aceleración centrípeta dirigida hacia el centro del círculo.
+    p.mb-5 El #[strong movimiento circular uniforme (MCU)] se caracteriza porque la partícula describe una trayectoria circular con #[strong velocidad angular constante], lo que significa que recorre #[strong arcos iguales en tiempos iguales]. Aunque su rapidez es constante, la dirección de la velocidad cambia continuamente, generando una #[strong aceleración centrípeta] dirigida hacia el centro del círculo.
 
     .bg-full-width.bg-color-4.mb-5
       .px-4.px-md-5
