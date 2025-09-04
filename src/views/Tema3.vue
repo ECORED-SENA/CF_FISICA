@@ -17,13 +17,13 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/zoMnLVttjmU?si=XwYb58rXR_EVqPcO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5 El siguiente video explica los #[strong conceptos fundamentales de la física] relacionados con las fuerzas que actúan sobre los cuerpos. Presenta la #[strong gravedad] como la fuerza que atrae los objetos hacia la Tierra y muestra cómo el #[strong peso] resulta de multiplicar la masa por la aceleración gravitacional. También describe la #[strong fuerza normal], la #[strong tensión], las #[strong fuerzas de roce estático y cinético], y la #[strong torsión], que provocan interacciones y movimientos en los cuerpos. Estos conceptos son la base para comprender cómo los objetos reaccionan ante distintas fuerzas en su entorno.
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/OT7dj0guS8E?si=1mNMByKVszuEndfT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     separador
     
